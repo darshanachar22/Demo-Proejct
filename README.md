@@ -1,2 +1,2 @@
-# Demo-Proejct
-This Is My First repo
+# Demo-Project
+This Is My First project
